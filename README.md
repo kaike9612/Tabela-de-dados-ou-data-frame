@@ -1,1 +1,1 @@
-# data-frame
+OLa esse pojeto foi um teste para uma tabela de dados ou data frame é um tipo de dados mutável, com ordenação e com indexação. Seus principais elementos são index (para as linhas), columns (para as colunas) e data (para os dados) relacionados à organização dos dados em uma tabela.
